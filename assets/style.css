@@ -1,5 +1,17 @@
 
-.padding{
+.footer {
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    color: black;
+    top: 10;
+    border-top: whitesmoke;
+
+}
+.padding {
     padding: 2%;
 }
 
